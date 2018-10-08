@@ -25,7 +25,7 @@ SECRET_KEY = 'fy(o@_y8j1c5by_e%77re3v9583qh&x3&_37)v5(r)@d)9ybi0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [127.0.0.1,'localhost', 'http://carrentsapp.herokuapp.com/','https://carrentsapp.herokuapp.com/']
+ALLOWED_HOSTS = [127.0.0.1, 'localhost', 'http://carrentsapp.herokuapp.com/', 'https://carrentsapp.herokuapp.com/']
 
 
 # Application definition
