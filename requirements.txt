@@ -3,4 +3,3 @@ Django==1.11.16
 mysql-connector==2.1.6
 psycopg2==2.7.5
 pytz==2018.5
-whitenoise==3.0
