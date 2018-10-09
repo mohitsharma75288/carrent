@@ -140,6 +140,6 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = 'baljeetcodeapp@gmail.com'
 EMAIL_HOST_PASSWORD = 'jiteshsir'
 #STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
-STATICFILES_STORAGE = 'whitenoise.staticfiles.storage.CompressedManifestStaticFilesStorage'
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 #STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 #STATICFILES_STORAGE = 'django.contrib.staticfiles.storage.compressedManifestStaticFilesStorage'
